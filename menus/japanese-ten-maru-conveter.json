@@ -1,0 +1,18 @@
+{
+  "context-menu": {
+    "atom-text-editor": [{
+      "label": "convert ten and maru",
+      "command": "japanese-ten-maru-conveter:toggle"
+    }]
+  },
+  "menu": [{
+    "label": "Packages",
+    "submenu": [{
+      "label": "japanese-ten-maru-conveter",
+      "submenu": [{
+        "label": "convert ten and maru",
+        "command": "japanese-ten-maru-conveter:convert"
+      }]
+    }]
+  }]
+}
