@@ -1,4 +1,4 @@
-# japanese-ten-maru-conveter package
+# japanese-ten-maru-converter package
 
 A short description of your package.
 

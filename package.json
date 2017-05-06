@@ -1,13 +1,13 @@
 {
-  "name": "japanese-ten-maru-conveter",
-  "main": "./lib/japanese-ten-maru-conveter",
+  "name": "japanese-ten-maru-converter",
+  "main": "./lib/japanese-ten-maru-converter",
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "japanese-ten-maru-conveter:convert"
+    "atom-workspace": "japanese-ten-maru-converter:convert"
   },
-  "repository": "https://github.com/atom/japanese-ten-maru-conveter",
+  "repository": "https://github.com/atom/japanese-ten-maru-converter",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
