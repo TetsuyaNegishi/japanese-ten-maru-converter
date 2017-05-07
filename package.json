@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "japanese-ten-maru-converter:convert"
   },
-  "repository": "https://github.com/atom/japanese-ten-maru-converter",
+  "repository": "https://github.com/TetsuyaNegishi/japanese-ten-maru-converter",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
