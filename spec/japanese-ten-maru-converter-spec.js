@@ -1,6 +1,6 @@
 'use babel';
 
-import JapaneseTenMaruConveter from '../lib/japanese-ten-maru-conveter';
+import JapaneseTenMaruConveter from '../lib/japanese-ten-maru-converter';
 
 // Use the command `window:run-package-specs` (cmd-alt-ctrl-p) to run specs.
 //
