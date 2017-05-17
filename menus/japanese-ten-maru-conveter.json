@@ -10,8 +10,11 @@
     "submenu": [{
       "label": "japanese-ten-maru-converter",
       "submenu": [{
-        "label": "convert ten and maru",
+        "label": "convert",
         "command": "japanese-ten-maru-converter:convert"
+      }, {
+        "label": "reconvert",
+        "command": "japanese-ten-maru-converter:reconvert"
       }]
     }]
   }]

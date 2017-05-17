@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-alt-i": "japanese-ten-maru-converter:convert"
+    "ctrl-alt-i": "japanese-ten-maru-converter:convert",
+    "ctrl-alt-shift-i": "japanese-ten-maru-converter:reconvert"
   }
 }
