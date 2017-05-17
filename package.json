@@ -12,6 +12,9 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
+  "scripts": {
+    "lint": "eslint ."
+  },
   "dependencies": {},
   "devDependencies": {
     "eslint": "^3.19.0",
