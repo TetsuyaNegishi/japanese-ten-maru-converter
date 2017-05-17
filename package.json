@@ -2,7 +2,7 @@
   "name": "japanese-ten-maru-converter",
   "main": "./lib/japanese-ten-maru-converter",
   "version": "0.2.1",
-  "description": "A short description of your package",
+  "description": "[、。] and [，．] convert mutually",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "japanese-ten-maru-converter:convert"
